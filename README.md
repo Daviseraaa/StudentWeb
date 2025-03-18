@@ -1,2 +1,2 @@
 # StudentWeb
-My student manager  website
+My student manager backend website
